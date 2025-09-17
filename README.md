@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 As an Fullstack Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Full Stack Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web app development, Data Structures.
 - 🌱 I’m diving deeper into [Full Stack](https://roadmap.sh/full-stack) and [DSA](https://roadmap.sh/datastructures-and-algorithms)
 
