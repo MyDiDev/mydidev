@@ -36,7 +36,7 @@ Full stack developer building web applications end to end — from API to UI. Co
 ### Let's Connect
 
 <p align="center">
-  <a href="mailto:diegolsx25@gmail.com">
+  <a href="mailto:didev4207@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" />
   </a>
   <a href="https://github.com/mydidev">
