@@ -1,6 +1,6 @@
 ### About Me
 
-Full stack developer student building web applications end to end — from API to UI. Comfortable across JavaScript/Node.js and Python on the backend, React on the front. Currently deepening my knowledge of data structures & algorithms via [roadmap.sh](https://roadmap.sh/datastructures-and-algorithms), and always open to interesting projects and collaboration.
+Just an developer student building web applications end to end — from API to UI. Comfortable across JavaScript/Node.js and Python on the backend, React on the front. Currently deepening my knowledge of data structures & algorithms via [roadmap.sh](https://roadmap.sh/datastructures-and-algorithms), and always open to interesting projects and collaboration.
 
 
 ### Let's Connect
